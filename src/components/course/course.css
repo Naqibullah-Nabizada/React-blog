@@ -1,0 +1,7 @@
+#courses{
+    display: flex !important;
+    justify-content: space-between !important;
+}
+#course{
+    width: 32% !important;
+}
